@@ -16,7 +16,7 @@ import os
 from collections import defaultdict, deque
 
 # ── Configuración ──────────────────────────────────────────────────────────────
-ARCHIVO   = "/home/san/Escritorio/Migracion_datos/venv_migracion/dataset/0002_UNIVERSO_VICTIMAS_LB (1).txt"
+ARCHIVO   = "/home/san/Escritorio/Migracion_Datos/RAV_to_PostgreSQL/dataset/0002_UNIVERSO_VICTIMAS_LB (1).txt"
 SEPARADOR = "»"
 ENCODING  = "latin-1"
 MUESTRA   = 100_000   # Cantidad de filas a analizar para inferir tipos

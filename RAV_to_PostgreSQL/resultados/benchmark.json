@@ -1,0 +1,44 @@
+[
+  {
+    "metodo": "execute_values",
+    "lote": 5000,
+    "tiempo_s": 12.4,
+    "ram_mb": 1.9,
+    "filas_s": 4032
+  },
+  {
+    "metodo": "execute_values",
+    "lote": 10000,
+    "tiempo_s": 12.11,
+    "ram_mb": 1.8,
+    "filas_s": 4129
+  },
+  {
+    "metodo": "execute_values",
+    "lote": 25000,
+    "tiempo_s": 12.35,
+    "ram_mb": 2.0,
+    "filas_s": 4049
+  },
+  {
+    "metodo": "COPY_StringIO",
+    "lote": 10000,
+    "tiempo_s": 1.09,
+    "ram_mb": 20.4,
+    "filas_s": 45872
+  },
+  {
+    "metodo": "COPY_StringIO",
+    "lote": 25000,
+    "tiempo_s": 1.11,
+    "ram_mb": 50.6,
+    "filas_s": 45045
+  },
+  {
+    "metodo": "COPY_StringIO",
+    "lote": 50000,
+    "tiempo_s": 1.24,
+    "ram_mb": 100.7,
+    "filas_s": 40323
+  }
+]

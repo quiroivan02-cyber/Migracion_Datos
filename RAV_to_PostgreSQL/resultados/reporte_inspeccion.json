@@ -1,0 +1,270 @@
+{
+  "filas_analizadas": 100000,
+  "columnas": [
+    {
+      "columna": "origen",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "fuente",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "programa",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "idpersona",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "idhogar",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "tipodocumento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "documento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "primernombre",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "segundonombre",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 27.86
+    },
+    {
+      "columna": "primerapellido",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "segundoapellido",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 3.91
+    },
+    {
+      "columna": "fechanacimiento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "expediciondocumento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "fechaexpediciondocumento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "pertenenciaetnica",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "genero",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "tipohecho",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "hecho",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "fechaocurrencia",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "coddanemunicipioocurrencia",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "zonaocurrencia",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "ubicacionocurrencia",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "presuntoactor",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "presuntovictimizante",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "fechareporte",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "tipopoblacion",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "tipovictima",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "pais",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "ciudad",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 64.87
+    },
+    {
+      "columna": "coddanemunicipioresidencia",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "zonaresidencia",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "ubicacionresidencia",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "direccion",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "numtelefonofijo",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "numtelefonocelular",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "email",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "fechavaloracion",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "estadovictima",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "nombrecompleto",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "idsiniestro",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "idmijefe",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "tipodesplazamiento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 1.86
+    },
+    {
+      "columna": "registraduria",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "vigenciadocumento",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 100.0
+    },
+    {
+      "columna": "conspersona",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "relacion",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.12
+    },
+    {
+      "columna": "coddanedeclaracion",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "coddanellegada",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "codigohecho",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "discapacidad",
+      "tipo_inferido": "int",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "descripciondiscapacidad",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "fud_ficha",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 0.0
+    },
+    {
+      "columna": "afectaciones",
+      "tipo_inferido": "str",
+      "porcentaje_nulos": 82.3
+    }
+  ]
+}

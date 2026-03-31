@@ -16,7 +16,7 @@ import psycopg2
 from psycopg2.extras import execute_values
 
 # ── Configuración (Entorno Linux / Docker) ─────────────────────────────────────
-ARCHIVO   = "/home/san/Escritorio/Migracion_datos/venv_migracion/dataset/0002_UNIVERSO_VICTIMAS_LB (1).txt"
+ARCHIVO   = "/home/san/Escritorio/Migracion_Datos/RAV_to_PostgreSQL/dataset/0002_UNIVERSO_VICTIMAS_LB (1).txt"
 SEPARADOR = "»"
 ENCODING  = "latin-1"
 
