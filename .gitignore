@@ -1,0 +1,10 @@
+venv_migracion/
+postgres_data/
+__pycache__/
+*.pyc
+*.csv
+*.txt
+dataset/
+logs/
+estado_carga.json
+.env
