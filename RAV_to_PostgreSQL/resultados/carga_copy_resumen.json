@@ -1,0 +1,10 @@
+{
+  "fecha_ejecucion": "2026-03-31T15:40:35.761521",
+  "archivo_origen": "0002_UNIVERSO_VICTIMAS_LB (1).txt",
+  "metodo_carga": "COPY via StringIO",
+  "destino": "rav.victimas",
+  "filas_procesadas": 13178321,
+  "insert_sesion": 12988321,
+  "total_en_bd": 12870875,
+  "tiempo_segundos": 879.93
+}
