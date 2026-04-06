@@ -1,0 +1,36 @@
+# ── Entorno virtual ───────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Python ────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# ── Datos del proyecto (no versionar CSVs) ────────
+datos/
+datos_limpios/
+salida/
+logs/
+
+# ── Base de datos de control ──────────────────────
+*.db
+
+# ── Archivos de respaldo ──────────────────────────
+*.bak
+
+# ── IDEs ──────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+
+# ── Credenciales (nunca versionar) ────────────────
+.env
+config/secrets.py
+
+# Reportes generados
+reportes/

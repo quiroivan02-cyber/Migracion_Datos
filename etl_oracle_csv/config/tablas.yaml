@@ -1,0 +1,25 @@
+# config/tablas.yaml
+# PK se detecta automáticamente desde Oracle.
+# fecha_col: null = tabla de catálogo (sin filtro de fecha).
+
+tablas:
+  PACIENTES:
+    fecha_col: created_at
+  CITAS_MEDICAS:
+    fecha_col: created_at
+  FACTURACION:
+    fecha_col: created_at
+  INTERNACIONES:
+    fecha_col: created_at
+  EXAMENES_MEDICOS:
+    fecha_col: created_at
+  RESULTADOS_EXAMENES:
+    fecha_col: created_at
+  MEDICAMENTOS_RECETADOS:
+    fecha_col: created_at
+  MEDICOS:
+    fecha_col: created_at
+  ESPECIALIDADES:
+    fecha_col: null
+  MUNICIPIOS:
+    fecha_col: null
