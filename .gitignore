@@ -1,10 +1,36 @@
+# ── Entornos virtuales ────────────────────────────────
+venv/
 venv_migracion/
-postgres_data/
+.venv/
+
+# ── Python ────────────────────────────────────────────
 __pycache__/
+*.py[cod]
 *.pyc
-*.csv
-*.txt
-dataset/
-logs/
-estado_carga.json
+*.pyo
+.pytest_cache/
+
+# ── RAV_to_PostgreSQL ─────────────────────────────────
+RAV_to_PostgreSQL/dataset/
+RAV_to_PostgreSQL/logs/
+RAV_to_PostgreSQL/postgres_data/
+RAV_to_PostgreSQL/estado_carga.json
+RAV_to_PostgreSQL/*.csv
+RAV_to_PostgreSQL/.env
+
+# ── etl_oracle_csv ────────────────────────────────────
+etl_oracle_csv/datos/
+etl_oracle_csv/datos_limpios/
+etl_oracle_csv/salida/
+etl_oracle_csv/reportes/
+etl_oracle_csv/logs/
+etl_oracle_csv/*.db
+etl_oracle_csv/.env
+
+# ── IDEs ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+
+# ── Credenciales ──────────────────────────────────────
 .env
