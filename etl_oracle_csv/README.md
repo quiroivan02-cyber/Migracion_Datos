@@ -56,7 +56,7 @@ ORACLE_CONFIG = {
     "port":         1521,
     "service_name": "XEPDB1",
     "user":         "hospital_admin",
-    "password":     "Hospital123",
+    "password":     "",
 }
 ```
 
